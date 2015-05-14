@@ -1,0 +1,47 @@
+header, main, footer {
+  padding-left: 240px !important;
+}
+
+nav.top-nav {
+  height: 122px !important;
+  box-shadow: none !important;
+}
+
+.sidr{
+	background-color: #191918;
+}
+
+.bold{
+	font-weight: bold !important;
+}
+
+.logo{
+	height: 150px;
+}
+
+.imgPerfil{
+	margin-top: 8px;
+}
+
+.menu{
+	height: 40px;
+	color: #b3b3b1;
+}
+
+.home{
+	border-left: 4px solid #0880b9;
+  	background-color: #333;
+  	font-weight: bold !important;
+}
+
+.projects{
+	border-left: 4px solid #0880b9;
+  	background-color: #333;
+  	font-weight: bold !important;
+}
+
+.skills{
+	border-left: 4px solid #0880b9;
+  	background-color: #333;
+  	font-weight: bold !important;
+}
