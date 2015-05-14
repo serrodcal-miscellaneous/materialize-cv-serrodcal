@@ -19,8 +19,17 @@ nav.top-nav {
 	height: 150px;
 }
 
+.logo:hover{
+	background-color: #191918 !important;
+}
+
+.name:hover{
+	background-color: #191918 !important;
+}
+
 .imgPerfil{
 	margin-top: 8px;
+	border-radius: 0% !important;
 }
 
 .menu{
@@ -29,18 +38,54 @@ nav.top-nav {
 }
 
 .home{
+  	font-weight: bold !important;
+}
+
+.home:hover{
 	border-left: 4px solid #0880b9;
   	background-color: #333;
   	font-weight: bold !important;
 }
 
 .projects{
+  	font-weight: bold !important;
+  	color: #42a5F5;
+}
+
+.projects:hover{
 	border-left: 4px solid #0880b9;
   	background-color: #333;
   	font-weight: bold !important;
 }
 
 .skills{
+  	font-weight: bold !important;
+  	color: #f48fb1;
+}
+
+.skills:hover{
+	border-left: 4px solid #0880b9;
+  	background-color: #333;
+  	font-weight: bold !important;
+}
+
+.about{
+  	font-weight: bold !important;
+  	color: #ffcc80;
+}
+
+.about:hover{
+	border-left: 4px solid #0880b9;
+  	background-color: #333;
+  	font-weight: bold !important;
+}
+
+.contact{
+  	font-weight: bold !important;
+  	color: #b2dfdb;
+}
+
+.contact:hover{
 	border-left: 4px solid #0880b9;
   	background-color: #333;
   	font-weight: bold !important;
